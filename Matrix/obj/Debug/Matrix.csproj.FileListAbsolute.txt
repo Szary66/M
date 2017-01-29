@@ -1,0 +1,8 @@
+B:\APROJECTS\C#\PIII\Matrix\Matrix\bin\Debug\Matrix.exe.config
+B:\APROJECTS\C#\PIII\Matrix\Matrix\bin\Debug\Matrix.exe
+B:\APROJECTS\C#\PIII\Matrix\Matrix\bin\Debug\Matrix.pdb
+B:\APROJECTS\C#\PIII\Matrix\Matrix\bin\Debug\Newtonsoft.Json.dll
+B:\APROJECTS\C#\PIII\Matrix\Matrix\bin\Debug\Newtonsoft.Json.xml
+B:\APROJECTS\C#\PIII\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+B:\APROJECTS\C#\PIII\Matrix\Matrix\obj\Debug\Matrix.exe
+B:\APROJECTS\C#\PIII\Matrix\Matrix\obj\Debug\Matrix.pdb
